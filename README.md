@@ -1,4 +1,5 @@
 # Containerized Web Scraper
+![alt text](sample_output.png)
 
 ## Description
 This is a containerized web scraper that scrapes data from the Wikipedia page of the largest companies in the United States by revenue. The data is then cleaned and stored in a Pandas DataFrame.
